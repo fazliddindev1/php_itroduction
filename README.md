@@ -1,10 +1,10 @@
 # PHP CRUD Mini Project - Post Management System
 
 ## Overview  
-This project is a simple **Post Management System** that demonstrates **CRUD (Create, Read, Update, Delete)** functionality using **PHP** with **MySQL PDO** for secure and efficient database interaction. The project allows users to manage posts easily and is perfect for learning and demonstrating basic database operations.
+This project is a simple Post Management System that demonstrates CRUD (Create, Read, Update, Delete) functionality using PHP and MySQL PDO for secure and efficient database interaction. It allows users to manage posts easily and is perfect for learning and demonstrating basic database operations.
 
 ## Features  
-- **Create Post:** Add new posts with a title and content.  
+- **Create Post:** Add new posts with titles and content.  
 - **Read Posts:** View all posts in a structured format.  
 - **Edit Post:** Update the title and content of existing posts.  
 - **Delete Post:** Remove posts from the database.  
